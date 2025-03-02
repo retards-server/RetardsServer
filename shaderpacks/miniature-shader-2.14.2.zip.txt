@@ -1,4 +1,4 @@
-#Sun Mar 02 11:55:34 CET 2025
+#Sun Mar 02 19:17:22 CET 2025
 shadowDistance=384.0
 shadowMapResolution=4096
 FLAT_LIGHTING=false
