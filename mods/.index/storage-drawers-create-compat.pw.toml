@@ -1,0 +1,16 @@
+filename = 'storage-drawers-create-compat-1.0.0.jar'
+name = 'Storage Drawers Create compat'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '07f4f62234872dc05166db6ae5fb99cdcd9eecbfc10f2a19885a5d92d0839d6b6a2449473025d41d89103696d54ca82199e5d15cc72ff4027034d3efd333da2f'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/c8JYP4m3/versions/v9ArAQEh/storage-drawers-create-compat-1.0.0.jar'
+
+[update.modrinth]
+mod-id = 'c8JYP4m3'
+version = 'v9ArAQEh'

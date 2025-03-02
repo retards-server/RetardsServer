@@ -1,0 +1,16 @@
+filename = 'Elite X Quality Guns Forge v3.3 - 1.20.1.jar'
+name = 'Elite X Quality Guns (TACZ)'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'c498c80b1fb52ab186ef065c69fa5946a859a9da7905b9a2d90ccac2fa6577af70b1a9e85b0c1abaac25d091195b1f3b628b6a2135b8c082830aef01245e86f5'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/X4uLYuhT/versions/HhG7WSDx/Elite X Quality Guns Forge v3.3 - 1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'X4uLYuhT'
+version = 'HhG7WSDx'

@@ -1,0 +1,16 @@
+filename = 'ToadLib-1.20.1-1.1.4.jar'
+name = 'ToadLib'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'e73edbde119a775c96cf10173d3ab0d2d3df5ec1'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5736962
+project-id = 1105516

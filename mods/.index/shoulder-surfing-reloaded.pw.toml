@@ -1,0 +1,16 @@
+filename = 'ShoulderSurfing-Forge-1.20.1-4.9.1.jar'
+name = 'Shoulder Surfing Reloaded'
+side = 'client'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'c89710dfc3fb44d773e782173b43720133b9488a3aaad55f7060a402d9f093d84534e9e15ac0f665218755a6f9d61e78cfd78b1f7f6c5799e634732e71e6ae1f'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/kepjj2sy/versions/Nztpq2Tv/ShoulderSurfing-Forge-1.20.1-4.9.1.jar'
+
+[update.modrinth]
+mod-id = 'kepjj2sy'
+version = 'Nztpq2Tv'

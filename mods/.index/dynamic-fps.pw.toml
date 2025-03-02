@@ -1,0 +1,16 @@
+filename = 'dynamic-fps-3.8.0+minecraft-1.20.0-forge.jar'
+name = 'Dynamic FPS'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'd27171ae717e86c36162d641f7867f0bfa82ee08b927771f73e7e8395c9c380fb6ff7248a63605be8a8e0e0b84f6bd97b03b84a3ed296d24b6c92145e9deeadc'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/LQ3K71Q1/versions/VoNC6qSO/dynamic-fps-3.8.0%2Bminecraft-1.20.0-forge.jar'
+
+[update.modrinth]
+mod-id = 'LQ3K71Q1'
+version = 'VoNC6qSO'

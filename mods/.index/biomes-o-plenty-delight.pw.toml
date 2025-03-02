@@ -1,0 +1,16 @@
+filename = 'biomesoplentydelight-1.1.0-1.20.1.jar'
+name = "Biomes O' Plenty Delight"
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'd83323ec8fd14709fd827ce81510062e045bea9e164acd08e86c4af39252c379f27651bb392aca66e15a1b9d0f420c1b982ae2c0a27bdc7d8fef42830cb1d9b8'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/umOrC1ZD/versions/VjS4QBBP/biomesoplentydelight-1.1.0-1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'umOrC1ZD'
+version = 'VjS4QBBP'

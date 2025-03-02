@@ -1,0 +1,16 @@
+filename = 'createaddoncompatibility-v0.2.2b-1.20.1-(neo)forge.jar'
+name = 'Create: Addon Compatibility'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '43583d5bac751db33235f7424bf460dcff5bfa7aa2b6f909e1d806ee9e846b869a4db272931bc3162dcd3d7ecd861889df8210372304c11252696f041a8d5130'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/QgrK9rtJ/versions/NWhAOUY0/createaddoncompatibility-v0.2.2b-1.20.1-%28neo%29forge.jar'
+
+[update.modrinth]
+mod-id = 'QgrK9rtJ'
+version = 'NWhAOUY0'
